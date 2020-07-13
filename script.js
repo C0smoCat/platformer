@@ -702,7 +702,7 @@ function runAnimation(frameFunc) {
         let stop = false;
         let timeStep = Math.min((time - lastTime) * gameSpeed, 50);
         totalTime += timeStep;
-        stop = !frameFunc(timeStep / 1000, totalTime);
+        stop = frameFunc(timeStep / 1000, totalTime) === false;
         lastTime = time;
 
         arrows.resetFrame();
