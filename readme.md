@@ -1,4 +1,9 @@
 # Simple platformer
+[![GitHub issues](https://img.shields.io/github/issues/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/network)
+[![GitHub stars](https://img.shields.io/github/stars/C0smoCat/platformer)](https://github.com/C0smoCat/platformer/stargazers)
+![GitHub](https://img.shields.io/github/license/C0smoCat/platformer)
+
 ![Screenshot 1](screenshots/1.png)
 ![Screenshot 2](screenshots/2.png)
 ## Запуск
